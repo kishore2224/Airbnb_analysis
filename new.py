@@ -7,7 +7,7 @@ from streamlit_option_menu import option_menu
 
 # Setting up page configuration
 
-st.set_page_config(page_title= "Airbnb Data Visualization | By Jafar Hussain",
+st.set_page_config(page_title= "Airbnb Data Visualization",
                    layout= "wide",
                   )
 
