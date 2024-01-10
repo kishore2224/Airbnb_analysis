@@ -14,4 +14,4 @@ Pymongo - (To store and retrieve the data by connecting with MongoDB Atlas)
 Streamlit - (To Create Graphical user Interface)
 Python
 
-
+Dashboard link: https://public.tableau.com/views/Airbnbanalysis_17048616493480/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
